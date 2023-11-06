@@ -1,0 +1,6 @@
+{
+    "name": "ministryofjustice/sifocc",
+    "description": "Sifocc theme",
+    "type": "wordpress-theme",
+    "require": {}
+}
