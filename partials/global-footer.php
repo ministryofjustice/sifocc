@@ -14,7 +14,7 @@
                 <a href="tel:+44-207-073-0318">+44 207 073 0318</a>
             </p>
             <p>
-                <a href="mailto:Grace.Karrass1@judiciary.uk">Grace.Karrass1@judiciary.uk</a>
+                <a href="mailto:adenike.adewale@judiciary.uk">adenike.adewale@judiciary.uk</a>
             </p>
         </section>
         <section>
